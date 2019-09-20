@@ -63,7 +63,6 @@ const Container = styled.main`
   flex-direction: column;
   align-items: center;
   padding: 2em;
-
 `
 class ReactComp extends React.Component {
 
